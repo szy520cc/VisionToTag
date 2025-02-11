@@ -1,0 +1,14 @@
+version: "3.8"  # 指定 Docker Compose 文件版本
+services:       # 定义服务
+  python-google:    # 服务名称
+    image: python:3.12.9-alpine3.21  # 使用的镜像
+    container_name: python-google  # 容器名称
+    tty: true  # 分配一个伪终端（对应 -t 参数）
+    stdin_open: true  # 保持标准输入打开（对应 -i 参数）
+    restart: unless-stopped  # 重启策略
+    ports:
+      - "8181:8181"  # 暴露端口
+    working_dir: /app/VisionToTag  # 工作目录
+    command: sh -c "pip install -r requirements.txt && gunicorn -c config.py app:app"  # 容器启动后执行的命令
+    volumes:
+      - ../VisionToTag:/app/VisionToTag  # 挂载当前目录到容器内的 /app 目录

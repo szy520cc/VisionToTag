@@ -1,0 +1,8 @@
+# 忽略所有 .log 文件
+*.log
+*.mp4
+*.mp3
+# 忽略特定文件夹
+/log/
+/video/
+/__pycache__/
