@@ -1,0 +1,9 @@
+2025-02-11 14:37:45 | INFO | {'文件下载成功,保存路径': '/home/szy/python/VisionToTag/video/20250211/3167b6710a080dc3e2809628363b2ae9.mp4'}
+2025-02-11 14:40:20 | ERROR | {'文件下载失败': '503 failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:7890: connection attempt timed out before receiving SETTINGS frame'}
+2025-02-11 14:41:11 | INFO | {'文件下载成功,保存路径': '/home/szy/python/VisionToTag/video/20250211/3167b6710a080dc3e2809628363b2ae9.mp4'}
+2025-02-11 14:42:41 | ERROR | {'文件下载失败': '503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:7890: Socket closed'}
+2025-02-11 14:48:47 | INFO | {'文件下载成功,保存路径': '/home/szy/python/VisionToTag/video/20250211/3167b6710a080dc3e2809628363b2ae9.mp4'}
+2025-02-11 14:55:51 | INFO | {'文件下载成功,保存路径': '/home/szy/python/VisionToTag/video/20250211/3167b6710a080dc3e2809628363b2ae9.mp4'}
+2025-02-11 14:55:56 | ERROR | {'获取视频标签失败': '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'}
+2025-02-11 14:57:52 | INFO | {'文件下载成功,保存路径': '/home/szy/python/VisionToTag/video/20250211/3167b6710a080dc3e2809628363b2ae9.mp4'}
+2025-02-11 14:59:01 | ERROR | {'获取视频标签失败': 'The read operation timed out'}

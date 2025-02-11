@@ -1,0 +1,9 @@
+2025-02-11 15:19:13 | INFO | {'请求参数url': 'https://aigc-miaobi.tos-cn-guangzhou.volces.com/parse_video/2025-02-11/951ab7a0-e840-11ef-9a95-b384e50e5459.mp4'}
+2025-02-11 15:19:18 | INFO | {'文件下载成功,保存路径': '/home/szy/python/VisionToTag/video/20250211/3167b6710a080dc3e2809628363b2ae9.mp4'}
+2025-02-11 15:20:42 | INFO | 文件 '3167b6710a080dc3e2809628363b2ae9.mp4' 已上传，URI: https://generativelanguage.googleapis.com/v1beta/files/4372cxafr0am
+2025-02-11 15:20:42 | INFO | 等待文件处理中...
+2025-02-11 15:22:04 | ERROR | 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:7890: recvmsg:Connection reset by peer
+2025-02-11 15:28:59 | INFO | {'文件下载成功,保存路径': '/home/szy/python/VisionToTag/video/20250211/3167b6710a080dc3e2809628363b2ae9.mp4'}
+2025-02-11 15:31:21 | INFO | 文件 '3167b6710a080dc3e2809628363b2ae9.mp4' 已上传，URI: https://generativelanguage.googleapis.com/v1beta/files/nef0479ksop0
+2025-02-11 15:31:21 | INFO | 等待文件处理中...
+2025-02-11 15:32:44 | ERROR | {'获取视频标签失败': '503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:7890: recvmsg:Connection reset by peer'}

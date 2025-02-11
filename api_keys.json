@@ -1,0 +1,26 @@
+{
+    "api_keys": [
+        {
+            "account_info": {
+                "username": "陈思伊1",
+                "password": "td123123",
+                "phone": "13811240164",
+                "email": "siyichen681@gmail.com",
+                "create_time": "2024-01-01",
+                "last_update": "2024-01-01"
+            },
+            "api_key": {
+                "key": "AIzaSyBzZfliTbZ8rjn7onLiSrq0m74AkHZ3w50",
+                "type": "gemini",
+                "status": "active",
+                "quota": {
+                    "daily_limit": 1500,
+                    "rpm_limit": 10,
+                    "used_count": 0
+                },
+                "create_time": "2024-01-01",
+                "expire_time": "2025-01-01"
+            }
+        }
+    ]
+}
